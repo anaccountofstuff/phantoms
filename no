@@ -46,5 +46,5 @@ end
 return {
     Drawings = drawing,
     maths = maths,
-    Hooks = loadstring(game:HttpGet("https://raw.githubusercontent.com/Cattoware/main/main/libaries/hooks.lua"))(),
+   -- Hooks = loadstring(game:HttpGet("https://raw.githubusercontent.com/Cattoware/main/main/libaries/hooks.lua"))(),
 }
